@@ -41,3 +41,7 @@ send_pipeline_notification(
     health="ok"
 )
 ```
+
+## Workflow en n8n
+
+![Workflow](preview.jpg)
